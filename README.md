@@ -32,10 +32,7 @@ A basic Quora-inspired web application built using **Node.js, Express.js, EJS, H
 
 3. Install dependencies:
    ```bash
-   npm install express
-   npm install ejs
-   npm uuid
-   npm method-override
+   npm install 
    ```
 
 4. Start the server:
